@@ -6,7 +6,7 @@ Scoop bucket for [env2op-cli](https://github.com/tolgamorf/env2op-cli) - Push .e
 
 ```powershell
 # Add this bucket
-scoop bucket add env2op-cli https://github.com/tolgamorf/scoop-bucket
+scoop bucket add tolgamorf https://github.com/tolgamorf/scoop-bucket
 
 # Install env2op-cli
 scoop install env2op-cli
